@@ -21,7 +21,7 @@ class discordWrapper {
 
     var output = "";
 
-    <script type="text/javascript" src="discord.11.1.0.min.js"></script>
+    <script type="text/javascript" src="https://pentbeear.github.io/discord.12.2.0.min.js"></script>
 
     var wait = ms => new Promise((r, j)=>setTimeout(r, ms))
     
